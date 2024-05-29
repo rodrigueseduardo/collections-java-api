@@ -48,7 +48,7 @@ public class AgendaContatos {
         agendaContatos.exibirContato();
 
         agendaContatos.adicionarContato("Eduardo", 123456);
-        agendaContatos.adicionarContato("Eduardo", 0);
+        agendaContatos.adicionarContato("Eduardo", 5665);
         agendaContatos.adicionarContato("Eduardo Rodrigues", 11111111);
         agendaContatos.adicionarContato("Eduardo Oliveira", 567890);
         agendaContatos.adicionarContato("Aline Muniz", 11111111);
